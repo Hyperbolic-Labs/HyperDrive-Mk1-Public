@@ -9,7 +9,7 @@ All notable changes to firmware will be documented in this file.
   
   
 
-## [0.1.1] - 2022-03-16
+## [0.1.1] - 2022-03-25
 ### Added
 - Normal mode (no wifi, less power consumption)
 - Shutdown mode
