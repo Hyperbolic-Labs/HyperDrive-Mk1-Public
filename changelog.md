@@ -1,17 +1,12 @@
 # Changelog
 All notable changes to firmware will be documented in this file.
 
-### Added
-### Changed
-### Removed
-### Fixed
-### Deprecated
-### Security
 
 
 ## [0.1.0] - 2022-03-12
 ### Added
 - Initial Beta release
+  
   
 
 ## [0.1.1] - 2022-03-16
